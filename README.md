@@ -1,2 +1,20 @@
-# xianyu-deal-finder
-A repository for xianyu-deal-finder
+# 闲鱼捡漏助手
+
+本地运行的闲鱼二手商品捡漏决策工具 MVP。
+
+## 功能
+- 商品录入与本地保存
+- 成本、利润、利润率计算
+- 0-100 捡漏评分
+- 建议最高收购价
+- 风险提示
+- 10000 元资金管理
+- 商品排序与删除
+- 手机/电脑响应式布局
+- 深色/浅色模式
+
+## 运行
+```bash
+npm install
+npm run dev
+``
